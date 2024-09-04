@@ -1,0 +1,204 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Exploring React Native: A Comprehensive Guide",
+            "content": "React Native has become one of the most popular frameworks for building cross-platform mobile applications. In this guide, we explore its features, benefits, and how to get started.",
+            "author": {
+                "id": 1,
+                "name": "John Doe"
+            },
+            "createdAt": "2024-09-01T12:00:00Z",
+            "likes": 45,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?t=st=1725443213~exp=1725446813~hmac=391c12422cfc59ccb87f01c7c8e0dc28dfd61e2908f85d19b1f152bb591b8d5d&w=2000"
+            ],
+            "community": "React Native Enthusiasts"
+        },
+        {
+            "id": 2,
+            "title": "Understanding Redux in React Native",
+            "content": "Redux is a predictable state container for JavaScript apps. Learn how to integrate it with React Native for better state management.",
+            "author": {
+                "id": 2,
+                "name": "Jane Smith"
+            },
+            "createdAt": "2024-09-02T14:00:00Z",
+            "likes": 30,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg?t=st=1725443242~exp=1725446842~hmac=783ddbefa4e16677cd9f5c6525946b06ce17754788de1b07c27fadedb1ef6bfb&w=2000"
+            ],
+            "community": "React Native Developers"
+        },
+        {
+            "id": 3,
+            "title": "Introduction to TypeScript with React Native",
+            "content": "TypeScript adds static typing to JavaScript, which can be useful when developing large applications. This post covers the basics of integrating TypeScript with React Native.",
+            "author": {
+                "id": 3,
+                "name": "Alice Johnson"
+            },
+            "createdAt": "2024-09-03T16:00:00Z",
+            "likes": 25,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?t=st=1725443213~exp=1725446813~hmac=391c12422cfc59ccb87f01c7c8e0dc28dfd61e2908f85d19b1f152bb591b8d5d&w=2000"
+            ],
+            "community": "TypeScript Learners"
+        },
+        {
+            "id": 4,
+            "title": "Building a Chat App with Firebase and React Native",
+            "content": "Firebase provides a real-time database and authentication services that integrate seamlessly with React Native. Learn how to build a chat app using these tools.",
+            "author": {
+                "id": 4,
+                "name": "Michael Brown"
+            },
+            "createdAt": "2024-09-04T18:00:00Z",
+            "likes": 50,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg?t=st=1725443242~exp=1725446842~hmac=783ddbefa4e16677cd9f5c6525946b06ce17754788de1b07c27fadedb1ef6bfb&w=2000"
+            ],
+            "community": "Firebase Enthusiasts"
+        },
+        {
+            "id": 5,
+            "title": "Styling Your React Native App with Styled-Components",
+            "content": "Styled-Components allow you to style your React Native components using tagged template literals. Discover how to use this library for clean and manageable styles.",
+            "author": {
+                "id": 5,
+                "name": "Sarah Wilson"
+            },
+            "createdAt": "2024-09-05T20:00:00Z",
+            "likes": 40,
+            "comments": [],
+            "images": [],
+            "community": "Styling Enthusiasts"
+        },
+        {
+            "id": 6,
+            "title": "Navigating React Native with React Navigation",
+            "content": "React Navigation is a library for routing and navigation in React Native apps. Learn how to set up and use React Navigation for a smooth user experience.",
+            "author": {
+                "id": 6,
+                "name": "David Lee"
+            },
+            "createdAt": "2024-09-06T22:00:00Z",
+            "likes": 55,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3866.jpg?t=st=1725443213~exp=1725446813~hmac=391c12422cfc59ccb87f01c7c8e0dc28dfd61e2908f85d19b1f152bb591b8d5d&w=2000"
+            ],
+            "community": "Navigation Experts"
+        },
+        {
+            "id": 7,
+            "title": "Optimizing Performance in React Native Apps",
+            "content": "Performance is crucial for mobile apps. This post provides tips and strategies for optimizing React Native app performance to ensure a smooth experience.",
+            "author": {
+                "id": 7,
+                "name": "Emily Davis"
+            },
+            "createdAt": "2024-09-07T10:00:00Z",
+            "likes": 35,
+            "comments": [],
+            "images": [],
+            "community": "Performance Gurus"
+        },
+        {
+            "id": 8,
+            "title": "Exploring the New Features in React Native 0.72",
+            "content": "React Native 0.72 brings new features and improvements. Get a comprehensive overview of what’s new and how to leverage these updates in your projects.",
+            "author": {
+                "id": 8,
+                "name": "Jessica Martinez"
+            },
+            "createdAt": "2024-09-08T12:00:00Z",
+            "likes": 60,
+            "comments": [],
+            "images": [],
+            "community": "React Native Updates"
+        },
+        {
+            "id": 9,
+            "title": "Creating Custom Hooks in React Native",
+            "content": "Custom hooks allow you to reuse stateful logic across your React Native components. This post explains how to create and use custom hooks effectively.",
+            "author": {
+                "id": 9,
+                "name": "Matthew Anderson"
+            },
+            "createdAt": "2024-09-09T14:00:00Z",
+            "likes": 45,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg?t=st=1725443242~exp=1725446842~hmac=783ddbefa4e16677cd9f5c6525946b06ce17754788de1b07c27fadedb1ef6bfb&w=2000"
+            ],
+            "community": "React Native Hooks"
+        },
+        {
+            "id": 10,
+            "title": "Integrating Third-Party Libraries in React Native",
+            "content": "Learn how to integrate popular third-party libraries into your React Native project to extend functionality and improve your app’s capabilities.",
+            "author": {
+                "id": 10,
+                "name": "Laura Wilson"
+            },
+            "createdAt": "2024-09-10T16:00:00Z",
+            "likes": 20,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg?t=st=1725443242~exp=1725446842~hmac=783ddbefa4e16677cd9f5c6525946b06ce17754788de1b07c27fadedb1ef6bfb&w=2000"
+            ],
+            "community": "Library Integrators"
+        },
+        {
+            "id": 11,
+            "title": "Handling Forms in React Native",
+            "content": "Forms are a common feature in mobile apps. This post provides guidance on how to handle forms efficiently in React Native.",
+            "author": {
+                "id": 11,
+                "name": "James Taylor"
+            },
+            "createdAt": "2024-09-11T18:00:00Z",
+            "likes": 40,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg?t=st=1725443242~exp=1725446842~hmac=783ddbefa4e16677cd9f5c6525946b06ce17754788de1b07c27fadedb1ef6bfb&w=2000"
+            ],
+            "community": "Form Handling"
+        },
+        {
+            "id": 12,
+            "title": "Using Context API for State Management in React Native",
+            "content": "The Context API provides a way to manage global state in React Native apps. Learn how to use it to simplify state management across your app.",
+            "author": {
+                "id": 12,
+                "name": "Anna Robinson"
+            },
+            "createdAt": "2024-09-12T20:00:00Z",
+            "likes": 50,
+            "comments": [],
+            "images": [
+                "https://img.freepik.com/free-photo/programming-background-concept_23-2150170137.jpg?t=st=1725443242~exp=1725446842~hmac=783ddbefa4e16677cd9f5c6525946b06ce17754788de1b07c27fadedb1ef6bfb&w=2000"
+            ],
+            "community": "State Management"
+        },
+        {
+            "id": 13,
+            "title": "Building a React Native App with Expo",
+            "content": "Expo provides a set of tools for developing React Native apps. This post covers how to build and deploy your app using Expo.",
+            "author": {
+                "id": 13,
+                "name": "Daniel Scott"
+            },
+            "createdAt": "2024-09-13T22:00:00Z",
+            "likes": 10,
+            "comments": [],
+            "images": [],
+            "community": "State Management"
+        }
+    ]
+}
